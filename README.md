@@ -3,6 +3,13 @@ It is respirotori made by hara to his best friends
 ### BUILT FOR LOVE 🖤
 # SCHOOL LIFE BEST LIFE
 ## 😎 WELCOME TO THE GROUP OF SCHOOL 
+
+<p align="center">
+<a href="https://github.com/haraprasadhota"><img title="YouTube" src="https://img.shields.io/badge/Github-haraprasadhota-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://gitlab.com/haraprasadhota"><img title="YouTube" src="https://img.shields.io/badge/YouTube-haraprasadhota-red?style=for-the-badge&logo=Youtube"></a>
+</p>
+
+
 <p align="center"><a href="https://github.com/haraprasadhota"><img src="https://github.com/alokprus/kp/blob/master/school.jpg" alt="Bt">
   
 ## <p align="center"> MY school friends 🤗🤗😍😍
